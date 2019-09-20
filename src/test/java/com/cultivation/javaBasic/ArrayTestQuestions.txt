@@ -1,0 +1,13 @@
+What is the knowledge point of the test? Where is the official document to the knowledge point?
+
+https://stackoverflow.com/questions/8452672/java-howto-arraylist-push-pop-shift-and-unshift/16163302
+https://www.javatpoint.com/java-list
+
+Why the test failed at first?
+The test failed because the array for push, pop stack methods are not yet constructed.
+
+Why you corrected the test that way?
+I corrected the test by manually inputting the expected value when doing the operations or by filling up the methods.
+
+Do you have further questions on this knowledge point?
+None

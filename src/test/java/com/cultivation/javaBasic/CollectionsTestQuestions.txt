@@ -1,0 +1,11 @@
+What is the knowledge point of the test? Where is the official document to the knowledge point?
+https://www.javatpoint.com/collections-in-java
+
+Why the test failed at first?
+The test failed because the collection for comparing results is empty or the methods required are missing.
+
+Why you corrected the test that way?
+I corrected the test by manually inputting the expected value when doing the operations or by filling up the methods.
+
+Do you have further questions on this knowledge point?
+None
